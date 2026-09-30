@@ -771,6 +771,15 @@ div.footer p {
     gap: 1rem;
     align-self: end;
 }
+
+.a-primary {
+    color: var(--primary);
+}
+
+.a-primary:hover {
+    color: var(--accent2);
+}
+
 /* Media Queries for Responsiveness */
 @media (max-width: 1500px) {
 
