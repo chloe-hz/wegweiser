@@ -84,7 +84,7 @@ a {
     color: var(--secondary);
     text-decoration: none;
     transition: color 0.2s ease;
-    text-wrap: nowrap;
+    /*text-wrap: nowrap;*/
 }
 
 a:hover {
